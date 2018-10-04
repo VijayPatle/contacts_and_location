@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:design:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/afcc2e4418e8239f48088a2a1ac07b53/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1e5e18c401bfd920fd8ace5cdf10fab/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vijay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/58b48cc6b17b24dbd0648c5bc89356c8/AndroidManifest.xml:2:1-11:12
@@ -36,37 +36,37 @@ MERGED from [com.android.support:interpolator:28.0.0] /home/vijay/.gradle/caches
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vijay/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/116649b107329f2506ac61f92a2d7589/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vijay/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/12a6bec8db314534e833cc74965c185b/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/vijay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f10206c7a8f358aef2ae8a6dde7a420f/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:3:5-49
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:4:5-72
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:4:5-72
 	android:name
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:4:22-69
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:4:22-69
 uses-permission#android.permission.CALL_PHONE
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:5:5-69
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:5:5-69
 	android:name
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:5:22-66
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:5:22-66
 uses-permission#android.permission.SEND_SMS
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:7:5-21:19
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:7:5-21:19
 MERGED from [com.android.support:design:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/afcc2e4418e8239f48088a2a1ac07b53/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/afcc2e4418e8239f48088a2a1ac07b53/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/vijay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/58b48cc6b17b24dbd0648c5bc89356c8/AndroidManifest.xml:9:5-20
@@ -80,35 +80,35 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vijay/.gradle
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5d6a51611fbbed10a32ab44dff6ed048/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:13:9-40
-activity#com.example.vijay.contactandnearby.ui.view.HomeActivity
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:14:9-20:20
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.vijay.contactandnearby.ui.view.activities.HomeActivity
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:14:19-55
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:14:19-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/afcc2e4418e8239f48088a2a1ac07b53/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/afcc2e4418e8239f48088a2a1ac07b53/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vijay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1e5e18c401bfd920fd8ace5cdf10fab/AndroidManifest.xml:20:5-44
@@ -173,13 +173,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vijay/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vijay/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/12a6bec8db314534e833cc74965c185b/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/vijay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f10206c7a8f358aef2ae8a6dde7a420f/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/vijay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f10206c7a8f358aef2ae8a6dde7a420f/AndroidManifest.xml:20:5-44
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		ADDED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		ADDED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/src/main/AndroidManifest.xml

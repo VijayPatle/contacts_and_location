@@ -33,7 +33,6 @@ public class MainPresenterImpl implements MainContract.presenter, MainContract.G
         if(mainView != null){
             mainView.showProgress();
         }
-     //   getNoticeIntractor.getNoticeArrayList(this);
 
     }
 
@@ -44,9 +43,17 @@ public class MainPresenterImpl implements MainContract.presenter, MainContract.G
 
 
     @Override
-    public void onFinished(ArrayList<Contact> noticeArrayList) {
+    public void onFinished(ArrayList<Contact> contactArrayList) {
+        ArrayList<Contact> contactArrayListfinal=new ArrayList<>();
+        if(contactArrayList.size()>0){
+            for (Contact contact:contactArrayList){
+                if(contact.numbers.size()>0){
+                    contactArrayListfinal.add(contact) ;
+                }
+            }
+        }
         if(mainView != null){
-            mainView.setDataToRecyclerView(noticeArrayList);
+            mainView.setDataToRecyclerView(contactArrayListfinal);
             mainView.hideProgress();
         }
     }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/vijay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1e5e18c401bfd920fd8ace5cdf10fab/res/values-night-v8/values-night-v8.xml",

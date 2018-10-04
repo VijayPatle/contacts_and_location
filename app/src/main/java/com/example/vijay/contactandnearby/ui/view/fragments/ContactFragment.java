@@ -23,7 +23,7 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.example.vijay.contactandnearby.R;
-import com.example.vijay.contactandnearby.ui.adapters.RepositoriesRecyclerAdapter;
+import com.example.vijay.contactandnearby.ui.adapters.ContactAdapter;
 import com.example.vijay.contactandnearby.ui.contact.Contact;
 import com.example.vijay.contactandnearby.ui.interfaces.ContactItemClickListener;
 import com.example.vijay.contactandnearby.ui.interfaces.MainContract;
@@ -106,7 +106,7 @@ public class ContactFragment extends Fragment implements MainContract.MainView {
 
     @Override
     public void setDataToRecyclerView(ArrayList<Contact> noticeArrayList) {
-        RepositoriesRecyclerAdapter adapter = new RepositoriesRecyclerAdapter(noticeArrayList , recyclerItemClickListener);
+        ContactAdapter adapter = new ContactAdapter(noticeArrayList , recyclerItemClickListener);
         recyclerView.setAdapter(adapter);
     }
 

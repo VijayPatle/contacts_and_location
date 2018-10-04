@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/vijay/Pictures/Experiments/Contact_demo/contacts_and_location/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/vijay/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/be304fb8c2b64a1d1639f3bb4c7ea317/res/values-v23/values-v23.xml",
