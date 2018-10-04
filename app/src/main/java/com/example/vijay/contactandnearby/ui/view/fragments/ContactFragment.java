@@ -63,7 +63,7 @@ public class ContactFragment extends Fragment implements MainContract.MainView {
             presenter = new MainPresenterImpl(this, new GetContactIntractorImpl());
             presenter.requestDataFromProvider(mContext);
         }else{
-            PermissionUtil.getInstance().showContactPermissionDialog(getActivity(),READ_CONTACT_PERMISSION_REQUEST_CODE);
+            PermissionUtil.getInstance().showContactPermissionDialog(ContactFragment.this,READ_CONTACT_PERMISSION_REQUEST_CODE);
         }
     }
 
@@ -91,6 +91,7 @@ public class ContactFragment extends Fragment implements MainContract.MainView {
     @Override
     public void onDestroyView() {
         super.onDestroyView();
+        if(presenter!=null)
         presenter.onDestroy();
     }
 
@@ -125,7 +126,7 @@ public class ContactFragment extends Fragment implements MainContract.MainView {
         @Override
         public void onItemPhoneClick(String phoneNo) {
             if(!PermissionUtil.getInstance().checkPermission(Manifest.permission.CALL_PHONE,mContext)){
-                PermissionUtil.getInstance().showPhonePermissionDialog(getActivity(),MAKE_CALL_PERMISSION_REQUEST_CODE);
+                PermissionUtil.getInstance().showPhonePermissionDialog(ContactFragment.this,MAKE_CALL_PERMISSION_REQUEST_CODE);
             } else {
                // Toast.makeText(mContext, "Permission Call Phone denied", Toast.LENGTH_SHORT).show();
 
@@ -161,7 +162,7 @@ public class ContactFragment extends Fragment implements MainContract.MainView {
                                   if(PermissionUtil.getInstance().checkPermission(Manifest.permission.SEND_SMS,mContext)){
                                       sendSMS();
                                   }else{
-                                      PermissionUtil.getInstance().showSMSPermissionDialog(getActivity(),PERMISSIONS_REQUEST_SEND_SMS);
+                                      PermissionUtil.getInstance().showSMSPermissionDialog(ContactFragment.this,PERMISSIONS_REQUEST_SEND_SMS);
                                   }
 
                                 }
@@ -200,6 +201,8 @@ public class ContactFragment extends Fragment implements MainContract.MainView {
             case READ_CONTACT_PERMISSION_REQUEST_CODE:
                 if (grantResults.length > 0 && (grantResults[0] == PackageManager.PERMISSION_GRANTED)) {
                     fetchContactList();
+                }else{
+                    progressBar.setVisibility(View.GONE);
                 }
                 break;
             case PERMISSIONS_REQUEST_SEND_SMS:

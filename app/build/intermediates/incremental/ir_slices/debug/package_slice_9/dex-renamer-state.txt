@@ -1,4 +1,0 @@
-#Thu Oct 04 09:51:12 IST 2018
-base.0=/home/vijay/AndroidStudioProjects/ContactAndNearBy/contacts_and_location/app/build/intermediates/transforms/dexMerger/debug/9
-path.0=classes.dex
-renamed.0=classes.dex
